@@ -1,0 +1,111 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
+
+
+
+
+
+#ext_menu-0 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-0 .navbar-caption {
+  color: #ffffff;
+  font-size: 30px;
+}
+#ext_menu-0 .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-0 .close-icon::before,
+#ext_menu-0 .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-0 .link,
+#ext_menu-0 .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-0 .link {
+  font-size: 0.75rem;
+}
+#ext_menu-0 .dropdown-item,
+#ext_menu-0 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-0 .link:hover,
+#ext_menu-0 .dropdown-item:hover,
+#ext_menu-0 .link:focus,
+#ext_menu-0 .dropdown-item:focus {
+  color: #ffffff;
+}
+#ext_menu-0 .link[aria-expanded="true"],
+#ext_menu-0 .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-0 .nav-dropdown-sm .link:focus,
+#ext_menu-0 .nav-dropdown-sm .link:hover,
+#ext_menu-0 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-0 .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#ext_menu-0 .navbar,
+#ext_menu-0 .nav-dropdown-sm,
+#ext_menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-0 .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-0 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-0 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-0 .bg-color.transparent.opened .link:hover,
+#ext_menu-0 .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#ext_menu-0 .link[aria-expanded="true"],
+#ext_menu-0 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#features4-0 .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-0 .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#contacts5-0 p,
+#contacts5-0 .list-group-text,
+#contacts5-0 .form-control-label {
+  color: #000;
+}
+#contacts5-0 strong,
+#contacts5-0 h4 {
+  color: #7e9b9f;
+}
+#contacts5-0 form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-0 .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-0 .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
+#content7-0 H3 {
+  color: #3d8eb9;
+}
+#content7-0 BLOCKQUOTE {
+  font-family: 'Montserrat', sans-serif;
+}
+#content7-0 P {
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+}
+#content7-0 H4 {
+  font-family: 'Montserrat', sans-serif;
+  color: #f28281;
+}
